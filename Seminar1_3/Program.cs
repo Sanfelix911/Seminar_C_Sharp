@@ -5,7 +5,7 @@ int count = numb * -1;
 
 while(count <= numb);
 {
-    Console.Write(count);
-    count = count + 1;
+     Console.Write(count);
+     count = count + 1;
 }
 
