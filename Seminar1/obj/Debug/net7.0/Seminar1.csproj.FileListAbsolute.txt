@@ -1,0 +1,15 @@
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\bin\Debug\net7.0\Seminar1.exe
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\bin\Debug\net7.0\Seminar1.deps.json
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\bin\Debug\net7.0\Seminar1.runtimeconfig.json
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\bin\Debug\net7.0\Seminar1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\bin\Debug\net7.0\Seminar1.pdb
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.csproj.AssemblyReference.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfoInputs.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.AssemblyInfo.cs
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.csproj.CoreCompileInputs.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\refint\Seminar1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.pdb
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\Seminar1.genruntimeconfig.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\Seminar1\Seminar1\obj\Debug\net7.0\ref\Seminar1.dll
