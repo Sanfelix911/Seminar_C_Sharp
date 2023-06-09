@@ -6,6 +6,6 @@ int count = numb * -1;
 while(count <= numb);
 {
     Console.Write(count);
-    count++;
+    count = count + 1;
 }
 
