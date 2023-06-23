@@ -1,0 +1,15 @@
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\bin\Debug\net7.0\Lern5_1.exe
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\bin\Debug\net7.0\Lern5_1.deps.json
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\bin\Debug\net7.0\Lern5_1.runtimeconfig.json
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\bin\Debug\net7.0\Lern5_1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\bin\Debug\net7.0\Lern5_1.pdb
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.csproj.AssemblyReference.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.AssemblyInfoInputs.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.AssemblyInfo.cs
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.csproj.CoreCompileInputs.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\refint\Lern5_1.dll
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.pdb
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\Lern5_1.genruntimeconfig.cache
+D:\GB\2023\ОБУЧЕНИЕ\C#\SeminarC#\Seminar5\Lern5_1\obj\Debug\net7.0\ref\Lern5_1.dll
